@@ -28,4 +28,3 @@ The original game can be previewed in the Google Play store
 	- http://graphicriver.net/item/monster-creation-kit-and-large-pack/8851390
 	- http://graphicriver.net/item/10-fresh-game-backgrounds/9137937
 	- http://graphicriver.net/item/cartoon-games-gui-pack-11-/6056785
-- The new version of the game should not be shared outside of the TLM program.
