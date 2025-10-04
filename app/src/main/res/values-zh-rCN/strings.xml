@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">记忆游戏</string>
+    <string name="debug">常规</string>
+    <string name="Difficulty_beginner">初学者</string>
+    <string name="Difficulty_easy">简单</string>
+    <string name="difficulty_medium">中等</string>
+    <string name="difficulty_hard">困难</string>
+    <string name="difficulty_hardest">极难</string>
+    <string name="difficulty_master">大师</string>
+    <string name="best_dash">~最佳得分: -</string>
+    <string name="animals">动物</string>
+    <string name="mosters">怪物</string>
+    <string name="emoji">表情</string>
+    <string name="china">中国</string>
+    <string name="best_02d_02d">最佳: %02d:%02d</string>
+    <string name="time">时间</string>
+    <string name="score">分数</string>
+    <string name="level_completed">关卡完成</string>
+    <string name="settings">设置</string>
+    <string name="rate_this">给个评价</string>
+    <string name="sound_on">开启声音</string>
+    <string name="sound_off">关闭声音</string>
+</resources>
